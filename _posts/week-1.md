@@ -1,0 +1,13 @@
+---
+layout: post
+title: CS 373 Fall 2016: Evan Carrillo 
+---
+
+<b> What did you do this past week? </b>
+test!
+<b> What's in your way? </b>
+<b> What will you do next week? </b>
+
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
+ddThe easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
